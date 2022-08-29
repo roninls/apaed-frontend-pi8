@@ -1,4 +1,4 @@
 [context.production]
-  publish = "output/"
+  publish = "dist/"
   command = "make publish"
   environment = { NODE_VERSION = "14.19.3" }
